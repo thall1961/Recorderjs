@@ -1,5 +1,5 @@
 {
-  "name": "recorderjs",
+  "name": "@thall1961/recorderjs",
   "version": "0.1.0",
   "description": "A plugin for recording/exporting the output of Web Audio API nodes",
   "main": "lib/index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zlokomatic/Recorderjs.git"
+    "url": "git+https://github.com/thall1961/Recorderjs.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zlokomatic/Recorderjs/issues"
+    "url": "https://github.com/thall1961/Recorderjs/issues"
   },
-  "homepage": "https://github.com/zlokomatic/Recorderjs#readme",
+  "homepage": "https://github.com/thall1961/Recorderjs#readme",
   "dependencies": {
     "inline-worker": "^0.1.0"
   },
